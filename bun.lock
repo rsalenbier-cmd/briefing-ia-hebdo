@@ -1,0 +1,21 @@
+{
+  "lockfileVersion": 2,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "app",
+      "dependencies": {
+        "@mistralai-capabilities/backend-workflows": "0.1.71",
+        "@mistralai-capabilities/base-core": "0.1.71",
+        "@mistralai-capabilities/deployment-apps": "0.1.71",
+      },
+    },
+  },
+  "packages": {
+    "@mistralai-capabilities/backend-workflows": ["@mistralai-capabilities/backend-workflows@0.1.71", "", {}, "sha512-A69/yfJtWIyIbuHJy0Rx6TO8dDCHNeQ2jrDYr1oMe5itSJVJasHXzCBTIvwaB52Cx0y8EUwFuVj9HCljx/rxnQ=="],
+
+    "@mistralai-capabilities/base-core": ["@mistralai-capabilities/base-core@0.1.71", "", {}, "sha512-QF6tt3NEWoFDvUIlMCmBxzVWjbsEUPK2T2+cJd5uNxXoug6Ih/0RxTq4VYV0+U5rQ6cYJI/HxYZCz2A5x9Tnrg=="],
+
+    "@mistralai-capabilities/deployment-apps": ["@mistralai-capabilities/deployment-apps@0.1.71", "", {}, "sha512-j8EwAn884LJffuQLsb8DEa2XEK510KOfU6I6i1ScckwkYfR2rxlnb0QrYBzu/Lkeze0lh9LkkyKUiJr7gSxssg=="],
+  }
+}
